@@ -7,3 +7,5 @@ The security of this program comes from both the key used, and the image itself.
 one could easily expand this program to any image format by using an image format converter such as the linux "convert" program.
 
 To compile, just download all files to a directory, navigate to that directory, and use make. Usage instructions can be seen by executing without arguments. 
+
+This project was originally a homework problem assigned by Dr. Jens Gregor of the University of Tennessee, Knoxville. Do not plagiarize. 
